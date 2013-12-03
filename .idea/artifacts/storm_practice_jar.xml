@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="storm-practice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/storm_practice_jar</output-path>
+    <root id="archive" name="storm-practice.jar">
+      <element id="module-output" name="storm-practice" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/redis/clients/jedis/2.2.1/jedis-2.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/3.2.1/amqp-client-3.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
